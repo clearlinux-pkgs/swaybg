@@ -1,0 +1,5 @@
+1.0
+pkgconfig(cairo)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(wayland-client)
+pkgconfig(wayland-protocols)
