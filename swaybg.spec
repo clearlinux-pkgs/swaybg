@@ -4,7 +4,7 @@
 #
 Name     : swaybg
 Version  : 1.0
-Release  : 3
+Release  : 4
 URL      : https://github.com/swaywm/swaybg/archive/1.0.tar.gz
 Source0  : https://github.com/swaywm/swaybg/archive/1.0.tar.gz
 Summary  : No detailed summary available
