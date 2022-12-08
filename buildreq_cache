@@ -1,4 +1,4 @@
-1.1.1
+1.2.0
 cairo-dev
 pkgconfig(cairo)
 pkgconfig(gdk-pixbuf-2.0)
